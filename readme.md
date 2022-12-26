@@ -1,1 +1,1 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=luyler&color=grey" />
+<img align="left" src="https://komarev.com/ghpvc/?username=luyler&style=plastic" />
