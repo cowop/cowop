@@ -9,6 +9,4 @@
   <a href="https://github.com/uathan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uathan&theme=github_dark" />
 </p>
-</details>
-
 
