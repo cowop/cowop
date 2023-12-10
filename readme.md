@@ -1,12 +1,2 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=luyler&color=grey&style=plastic" />
-<p align="center">
-  <a href="https://github.com/uathan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uathan&theme=github_dark" />
-  </a>
-  <a href="https://github.com/uathan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uathan&hide_border=true&card_width=338&theme=github_dark" />
-  </a>
-  <a href="https://github.com/uathan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uathan&theme=github_dark" />
-</p>
-
+<img src="https://api.status.gg/discord/280030020305420289?&theme%5Bbackground%5D%5Bprimary%5D=000000&theme%5Bbackground%5D%5Bsecondary%5D=000000&border%5Bcolor%5D=19c7fc&border%5Bradius%5D=30&border%5Bwidth%5D=3&theme%5Btext%5D%5Bprimary%5D=19c7fc&theme%5Btext%5D%5Bsecondary%5D=ffffff&format=svg" height=100 width=410>
