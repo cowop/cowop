@@ -1,7 +1,7 @@
 <!-- <img align="left" src="https://komarev.com/ghpvc/?username=luyler&color=grey&style=plastic" /> -->
 
 
-<details align="center"><img align="left" src="https://komarev.com/ghpvc/?username=luyler&color=grey&style=plastic" />
+<details align="center">
 <p align="center">
   <a href="https://github.com/uathan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uathan&theme=github_dark" />
